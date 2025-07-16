@@ -42,7 +42,16 @@
 
 ###
 
-<p align="left">🔁 Golden Pipeline DevSecOps<br>Organização com repositórios voltados à construção de uma golden pipeline moderna, segura e escalável. Inclui integração de ferramentas como GitHub Actions, SonarQube, SAST, DAST, secret scanning e deploy contínuo com ArgoCD.<br>🔗 Acessar a organização no GitHub<br>@golden-pipeline<br>☸️ Provisionamento de Cluster EKS com Terraform<br>Projeto completo para criação de um cluster Kubernetes (EKS) utilizando Terraform, com configuração de VPC, subnets, roles e nodes. Focado em práticas de IaC, GitOps e segurança.<br>🔗 Ver repositório no GitHub</p>
+<p align="left">
+  🔁 <strong>Golden Pipeline DevSecOps</strong><br>
+  Organização com repositórios voltados à construção de uma golden pipeline moderna, segura e escalável. Inclui integração de ferramentas como GitHub Actions, SonarQube, SAST, DAST, secret scanning e deploy contínuo com ArgoCD.<br>
+  🔗 <a href="https://github.com/orgs/golden-pipeline/repositories" target="_blank">Acessar a organização no GitHub</a><br><br>
+
+  ☸️ <strong>Provisionamento de Cluster EKS com Terraform</strong><br>
+  Projeto completo para criação de um cluster Kubernetes (EKS) utilizando Terraform, com configuração de VPC, subnets, roles e nodes. Focado em práticas de IaC, GitOps e segurança.<br>
+  🔗 <a href="https://github.com/Estudo-DevOps/aws-eks-cluster-iac" target="_blank">Ver repositório no GitHub</a>
+</p>
+
 
 ###
 
