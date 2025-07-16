@@ -1,12 +1,12 @@
-<h2 align="left">Sobre</h2>
+<h2 align="left">Sobre:</h2>
 
 ###
 
-<p align="left">👋 Olá! Eu sou o Nicolas de Castro Ferreira<br><br>🎯 **Engenheiro DevOps | SRE | Especialista em AWS, Terraform, CI/CD e Kubernetes**<br><br>Sou apaixonado por automação, cloud computing e confiabilidade de sistemas. Atualmente atuo como DevOps Engineer Pleno na NTT DATA, onde trabalho com projetos em grandes empresas dos setores financeiro, bancário, farmacêutico e de energia, focando em infraestrutura como código, observabilidade e segurança em ambientes AWS.<br><br>💡 Sempre buscando soluções escaláveis, seguras e eficientes por meio da cultura DevOps e da colaboração entre times.</p>
+<p align="left">👋 Olá! Eu sou o Nicolas de Castro Ferreira<br><br>🎯 Engenheiro DevOps | SRE | Especialista em AWS, Terraform, CI/CD e Kubernetes.<br><br>Sou apaixonado por automação, cloud computing e confiabilidade de sistemas. Atualmente atuo como DevOps Engineer Pleno na NTT DATA, onde trabalho com projetos em grandes empresas dos setores financeiro, bancário, farmacêutico e de energia, focando em infraestrutura como código, observabilidade e segurança em ambientes AWS.<br><br>💡 Sempre buscando soluções escaláveis, seguras e eficientes por meio da cultura DevOps e da colaboração entre times.</p>
 
 ###
 
-<h2 align="left">Tecnologias</h2>
+<h2 align="left">Tecnologias:</h2>
 
 ###
 
@@ -38,13 +38,15 @@
 
 ###
 
-<h2 align="left">Stats</h2>
+<h2 align="left">Projetos em Destaque:</h2>
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nicolascf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
+<p align="left">🔁 Golden Pipeline DevSecOps<br>Organização com repositórios voltados à construção de uma golden pipeline moderna, segura e escalável. Inclui integração de ferramentas como GitHub Actions, SonarQube, SAST, DAST, secret scanning e deploy contínuo com ArgoCD.<br>🔗 Acessar a organização no GitHub<br><br>☸️ Provisionamento de Cluster EKS com Terraform<br>Projeto completo para criação de um cluster Kubernetes (EKS) utilizando Terraform, com configuração de VPC, subnets, roles e nodes. Focado em práticas de IaC, GitOps e segurança.<br>🔗 Ver repositório no GitHub</p>
+
+###
+
+<h2 align="left">Estátisticas:</h2>
 
 ###
 
@@ -56,7 +58,7 @@
 
 ###
 
-<h2 align="left">Redes</h2>
+<h2 align="left">Redes:</h2>
 
 ###
 
