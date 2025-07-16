@@ -55,7 +55,7 @@
 
 ###
 
-<h2 align="left">Estátisticas:</h2>
+<h2 align="left">Estatísticas:</h2>
 
 ###
 
