@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Olá! Eu sou o Nicolas de Castro Ferreira<br><br>🎯 Engenheiro DevOps | SRE | Especialista em AWS, Terraform, CI/CD e Kubernetes.<br><br>Sou apaixonado por automação, cloud computing e confiabilidade de sistemas. Atualmente atuo como DevOps Engineer Pleno na NTT DATA, onde trabalho com projetos em grandes empresas dos setores financeiro, bancário, farmacêutico e de energia, focando em infraestrutura como código, observabilidade e segurança em ambientes AWS.<br><br>💡 Sempre buscando soluções escaláveis, seguras e eficientes por meio da cultura DevOps e da colaboração entre times.</p>
+<p align="left">👋 Olá! Eu sou o Nicolas de Castro Ferreira<br><br>🎯 Engenheiro DevOps | SRE | Especialista em AWS, Terraform, CI/CD e Kubernetes.<br><br>Sou apaixonado por automação, cloud computing e confiabilidade de sistemas. Atualmente atuo como DevOps Engineer Pleno na NTT DATA, onde trabalho com projetos em grandes empresas dos setores financeiro, bancário, farmacêutico e de energia, focando em infraestrutura como código, observabilidade e segurança em ambientes AWS.<br><br>💡 Sempre buscando soluções escaláveis, seguras e eficientes por meio da cultura DevOps e da colaboração entre times.<br><br>💡 “Automatizar o que é repetitivo, monitorar o que é crítico e melhorar o que é contínuo.”</p>
 
 ###
 
